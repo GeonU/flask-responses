@@ -26,4 +26,4 @@ Quick start::
 
     @app.route("/")
     def hello():
-      return json_response({"message": "Hello World!"})
+        return json_response({"message": "Hello World!"})
