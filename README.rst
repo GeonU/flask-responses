@@ -1,4 +1,4 @@
-Flask-Classy
+Flask-Responses
 =============
 
 .. module:: flask.ext.responses
